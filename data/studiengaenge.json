@@ -1,0 +1,12 @@
+{
+	"WEB":
+		{
+		"Bezeichnung": "Web-Engineering",
+		"Art": "Bachelor",
+		"Beschreibung":"Einführung ..."
+	},"IAS":{
+		"Bezeichnung":Interaktive Systeme",
+		"Art":"Bachelor",
+		"Beschreibung":"Einführung ..."
+	}
+}
