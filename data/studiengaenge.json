@@ -3,26 +3,26 @@
 		{
 		"Bezeichnung": "Web-Engineering",
 		"Art": "Bachelor",
-		"Beschreibung":"Einführung ..."
+		"Beschreibung": "Das Modul \"Web-Engineering\" soll den Studierenden helfen, sich in das Themengebiet \"Web / Internet\" einzuarbeiten und einen ersten Überblick über die vielfältigen Techniken, die dort zum Einsatz kommen, zu gewinnen."
 	},"IAS":{
-		"Bezeichnung":"Interaktive Systeme",
-		"Art":"Bachelor",
-		"Beschreibung": "Jason Geldermann"
+		"Bezeichnung": "Interaktive Systeme",
+		"Art": "Bachelor",
+		"Beschreibung": "Das Modul \"Interaktive Systeme\" soll die Studierenden in die Lage versetzen, Benutzungsschnittstelle entwerfen und implementieren zu können, die die Aspekte der Software-Ergonomie und Barrierefreiheit berücksichtigen."
 	},"OOA":{
-		"Bezeichnung":"Objäktorientierte Anwendungsentwicklung",
-		"Art":"Bachelor",
-		"Beschreibung":"Einführung ..."
+		"Bezeichnung": "Software-Engineering",
+		"Art": "Bachelor",
+		"Beschreibung": "Das Modul \"Software-Engineering\" ist eine Einführung in die Konzepte und Techniken des Software-Engineering. Die Studierenden sollen damit in die Lage versetzt werden, einen systematischen Ansatz bei der Entwicklung von Software-Systemen zu verfolgen."
 	},"IAS":{
-		"Bezeichnung":"Interaktive Systeme",
-		"Art":"Bachelor",
-		"Beschreibung":"Einführung ..."
+		"Bezeichnung": "Interaktive Systeme",
+		"Art": "Bachelor",
+		"Beschreibung": "Einführung ..."
 	},"IAS":{
-		"Bezeichnung":"Interaktive Systeme",
-		"Art":"Bachelor",
-		"Beschreibung":"Einführung ..."
+		"Bezeichnung": "Interaktive Systeme",
+		"Art": "Bachelor",
+		"Beschreibung": "Einführung ..."
 	},"IAS":{
-		"Bezeichnung":"Interaktive Systeme",
-		"Art":"Bachelor",
-		"Beschreibung":"Einführung ..."
+		"Bezeichnung": "Interaktive Systeme",
+		"Art": "Bachelor",
+		"Beschreibung": "Einführung ..."
 	}
 }
