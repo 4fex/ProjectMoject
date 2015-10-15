@@ -1,6 +1,8 @@
 #coding: utf-8
 
 import cherrypy
+import json
+
 
 #--------------------------------------
 class Application_cl(object):
@@ -12,8 +14,10 @@ class Application_cl(object):
 		pass
 
 	def studiengaenge(self):
-		markup_s="blablaaaaaa"
-		
+		markup_s="t "
+		object = open("./data/studiengaenge.json","r")
+		lines=json.load(object)
+		markup_s + lines["WEB"]["Bezeichnung"]
 		return markup_s
 
 	studiengaenge.exposed=True
